@@ -4,13 +4,13 @@
 }
 
 body {
-  font-family: 'CHAWP';
+  font-family: "CHAWP";
   margin: 0;
   font-size: 1.5rem;
   text-align: center;
-  background: url('/public/img/game_bg.png');
+  background: url("/public/img/game_bg.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
-  color: #fff
+  color: #fff;
 }
